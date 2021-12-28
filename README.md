@@ -15,7 +15,8 @@ I'm Berke from Turkey. I'm 23 years ago. I graduated Pamukkale University Electr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozeberke)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gozeberke)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gozeberke&show_icons=true)  
+ 
 
 
 
