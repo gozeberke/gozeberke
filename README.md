@@ -1,6 +1,6 @@
 #### Front End Developer
 I'm Berke from Turkey. I'm 23 years ago. I graduated Pamukkale University Electrical-Electronics Engineering in 2021. I really enjoy learning languages and frameworks.
-<br></>
+
 
 <img src="https://user-images.githubusercontent.com/73718014/147607207-bc69d9dc-ca14-4d79-b12e-38db237ecb13.gif">
 
