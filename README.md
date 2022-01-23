@@ -17,7 +17,8 @@ I'm Berke from Turkey. I'm 23 years ago. I graduated Pamukkale University Electr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gozeberke&show_icons=true)  
  
-
+ # Snake Eating Contribution Graph
+![snake gif](https://github.com/gozeberke/gozeberke/blob/output/github-contribution-grid-snake.gif)
 
 
 
